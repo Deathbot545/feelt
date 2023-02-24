@@ -1,0 +1,31 @@
+D:\New folder\feelt\fleet management\fleet management\bin\Debug\net7.0\appsettings.Development.json
+D:\New folder\feelt\fleet management\fleet management\bin\Debug\net7.0\appsettings.json
+D:\New folder\feelt\fleet management\fleet management\bin\Debug\net7.0\fleet management.staticwebassets.runtime.json
+D:\New folder\feelt\fleet management\fleet management\bin\Debug\net7.0\fleet management.exe
+D:\New folder\feelt\fleet management\fleet management\bin\Debug\net7.0\fleet management.deps.json
+D:\New folder\feelt\fleet management\fleet management\bin\Debug\net7.0\fleet management.runtimeconfig.json
+D:\New folder\feelt\fleet management\fleet management\bin\Debug\net7.0\fleet management.dll
+D:\New folder\feelt\fleet management\fleet management\bin\Debug\net7.0\fleet management.pdb
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\fleet management.csproj.AssemblyReference.cache
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\fleet management.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\fleet management.AssemblyInfoInputs.cache
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\fleet management.AssemblyInfo.cs
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\fleet management.csproj.CoreCompileInputs.cache
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\fleet management.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\fleet management.RazorAssemblyInfo.cache
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\fleet management.RazorAssemblyInfo.cs
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\staticwebassets\msbuild.fleet management.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\staticwebassets\msbuild.build.fleet management.props
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.fleet management.props
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.fleet management.props
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\staticwebassets.pack.json
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\staticwebassets.build.json
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\staticwebassets.development.json
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\scopedcss\bundle\fleet management.styles.css
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\scopedcss\projectbundle\fleet management.bundle.scp.css
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\fleet management.dll
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\refint\fleet management.dll
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\fleet management.pdb
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\fleet management.genruntimeconfig.cache
+D:\New folder\feelt\fleet management\fleet management\obj\Debug\net7.0\ref\fleet management.dll
